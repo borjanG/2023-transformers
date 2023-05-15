@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://zenodo.org/badge/DOI/10.1142/S0218202523500136.svg" link="[https://doi.org/10.1142/S0218202523500136](https://arxiv.org/abs/2305.05465)">
+  <img src="https://zenodo.org/badge/DOI/10.1142/S0218202523500136.svg" link="https://arxiv.org/abs/2305.05465">
 </p>
 
 <tt>Python</tt> codes for the paper 
