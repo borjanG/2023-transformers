@@ -13,9 +13,8 @@
 *The emergence of clusters in self-attention dynamics* by Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, and Philippe Rigollet. 
 
 <p align="center">
-  <img src="movies/Th31/3d/out.gif" alt="animated" width="250"/>
-  <img src="movies/Th42/out.gif" alt="animated" width="250"/>
-  <img src="movies/Th21/out.gif" alt="animated" width="250"/>
+  <img src="movies/1.gif" alt="animated" width="250"/>
+  <img src="movies/2.gif" alt="animated" width="250"/>
 </p>
 
 ## Abstract
