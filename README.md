@@ -10,7 +10,7 @@
 </p>
 
 <tt>Python</tt> codes for the paper 
-*The emergence of clusters in self-attention dynamics* by Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, and Philippe Rigollet. 
+**The emergence of clusters in self-attention dynamics** by Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, and Philippe Rigollet. 
 
 <p align="center">
   <img src="movies/1.gif" alt="animated" width="250"/>
